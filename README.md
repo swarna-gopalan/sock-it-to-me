@@ -1,6 +1,6 @@
 # Sock It To Me
 
-Who wants socks at TrailheaDX 2018?
+Who wants socks at TrailheaDX 2018? Swarna
 
 ![QR Code to this repo](https://goo.gl/eoho2z.qr)
 
